@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "LOVE (Prod by jjj)",
+  "base_artist": "C.O.S.A.、Kid Fresino",
+  "createdAt": "2026-03-29T05:33:27.480080Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love (Prod by jjj)",
+      "artist": "C.O.S.A.",
+      "has_synced": false,
+      "path": "select/01_Love_(Prod_by_jjj)_C.O.S.A..txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Interlude (That's Love) (Prod. by Ludwig Gorransen) (DatPiff Exclusive)",
+      "artist": "Chance the Rapper",
+      "has_synced": true,
+      "path": "select/02_Interlude_(That's_Love)_(Prod._by_Ludwig_Gorransen)_(DatPiff_Exclusive)_Chance_the_Rapper.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Love (Prod. By Just Blaze)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/03_No_Love_(Prod._By_Just_Blaze)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "09 Kevin Gates - Complaining (Feat. Rico Love) [Prod. By Rico Love & D-Town]",
+      "artist": "Kevin Gates",
+      "has_synced": true,
+      "path": "select/04_09_Kevin_Gates_-_Complaining_(Feat._Rico_Love)_[Prod._By_Rico_Love_&_D-Town]_Kevin_Gates.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "If This Isn't Love (Prod. By Brian Kennedy)",
+      "artist": "Jennifer Hudson",
+      "has_synced": true,
+      "path": "select/05_If_This_Isn't_Love_(Prod._By_Brian_Kennedy)_Jennifer_Hudson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Imrana - Fake Love (Prod by DareMameBeat",
+      "artist": "Imrana",
+      "has_synced": true,
+      "path": "select/06_Imrana_-_Fake_Love_(Prod_by_DareMameBeat_Imrana.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Stay In Love (Prod. by Bryan-Michael Cox)",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/07_I_Stay_In_Love_(Prod._by_Bryan-Michael_Cox)_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Back In Love (Prod. By Steve Mckie)",
+      "artist": "Estelle",
+      "has_synced": true,
+      "path": "select/08_Back_In_Love_(Prod._By_Steve_Mckie)_Estelle.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "No Substitute Love (Prod. By Wyclef Jean & Jerry \"wonda\" Duplesis)",
+      "artist": "Estelle",
+      "has_synced": true,
+      "path": "select/09_No_Substitute_Love_(Prod._By_Wyclef_Jean_&_Jerry__wonda__Duplesis)_Estelle.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Boogie Wit Da Hoodie - Fall In Love (Prod. by Plug Studios NYC) [Official Audio]",
+      "artist": "A Boogie Wit da Hoodie",
+      "has_synced": true,
+      "path": "select/10_A_Boogie_Wit_Da_Hoodie_-_Fall_In_Love_(Prod._by_Plug_Studios_NYC)_[Official_Audi_A_Boogie_Wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nav - Fell in Love (Prod by Nav)",
+      "artist": "NAV",
+      "has_synced": true,
+      "path": "select/11_Nav_-_Fell_in_Love_(Prod_by_Nav)_NAV.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Show Me Love (prod by DJ Pooh)",
+      "artist": "Snoop Dogg",
+      "has_synced": true,
+      "path": "select/12_Show_Me_Love_(prod_by_DJ_Pooh)_Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Poco Love (prod. by sadface)",
+      "artist": "POLUGHOUL",
+      "has_synced": true,
+      "path": "select/13_Poco_Love_(prod._by_sadface)_POLUGHOUL.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Took My Love (Prod. by LMFAO)",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/14_Took_My_Love_(Prod._by_LMFAO)_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hope for Love [Prod. By Doughboy]",
+      "artist": "Starlito",
+      "has_synced": false,
+      "path": "select/15_Hope_for_Love_[Prod._By_Doughboy]_Starlito.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "sugarcoated love (Prod. By Samuel Kareem)",
+      "artist": "RIMON",
+      "has_synced": true,
+      "path": "select/16_sugarcoated_love_(Prod._By_Samuel_Kareem)_RIMON.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "09 Meek Mill - Middle Of Da Summer (Feat. Mel Love) [Prod. By Tone Beats]",
+      "artist": "Meek Mill",
+      "has_synced": true,
+      "path": "select/17_09_Meek_Mill_-_Middle_Of_Da_Summer_(Feat._Mel_Love)_[Prod._By_Tone_Beats]_Meek_Mill.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Your Love (Prod By Pop Wansel And Oak)",
+      "artist": "Nicki Minaj",
+      "has_synced": false,
+      "path": "select/18_Your_Love_(Prod_By_Pop_Wansel_And_Oak)_Nicki_Minaj.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "- Middle of Da Summer ft Mel Love (Prod by Tone Beats)  (DatPiff Exclusive)",
+      "artist": "Meek Mill",
+      "has_synced": true,
+      "path": "select/19_-_Middle_of_Da_Summer_ft_Mel_Love_(Prod_by_Tone_Beats)_(DatPiff_Exclusive)_Meek_Mill.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Let me Love (Prod. by Jin Young)",
+      "artist": "Unicode",
+      "has_synced": true,
+      "path": "select/20_Let_me_Love_(Prod._by_Jin_Young)_Unicode.lrc"
+    }
+  ]
+}
